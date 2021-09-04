@@ -11,7 +11,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   API 설계를 좋아합니다. 다만 TDD 같은 API가 쓰이는 곳을 더욱 고려해서 개발하는 방법을 써보고 싶습니다.
 
 - 밑에서 보면 알 수 있듯 다양한 경험을 해봤지만 **주로 했던 것은 안드로이드 개발**입니다.
-
+  전반적인 앱 개발을 주로 하며, UI 디자인도 좋아합니다.
 - **Kotlin**이 가장 자신있는 언어이자 가장 좋아하고 자주 쓰는 언어입니다.
   심지어 코틀린 [컴파일러](https://github.com/lhwdev/Model) [플러그인](https://github.com/lhwdev/kt-ui/blob/master/compiler-plugin)을
   만들기도 했습니다.
