@@ -54,6 +54,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem) (허접함)
   * [라즈베리 기반 자동차 원격제어 앱](https://github.com/lhwdev/project-vrcar) (와이파이)
 
+- [개발일지](https://lhwdev.github.io/note)
+  * 하나하나 html 만져가며 만들고 싶었지만... 시간이 없어서 마크다운 + mkdocs로 만들었습니다.
+
 - ~~ASM(Android Studio Mobile)~~
   * 어릴 때 만들다 말아서 코드가 지저분합니다.
 
