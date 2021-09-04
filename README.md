@@ -35,7 +35,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   > Reinventing the wheel is sometimes **exciting**.
 
 ## 지금까지 한 것들
-- **코로나19 자가진단 매크로 앱**  
+- **코로나19 자가진단 매크로 앱**
+  
   교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로.
   * 매일 자가진단을 하기가 귀찮아서 만들었습니다.
   * (v3.0.0 기준) UI를 정성들여 만들었고, 다양한 편의기능(여러명 동시 진단, 렌덤 시간, 주말 제외 기능 등)이 있습니다.
