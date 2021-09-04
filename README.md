@@ -49,7 +49,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * 만들 때 다른 분들의 도움을 좀 받았고, 도움을 주고 있습니다.
 
 - 고등학교에서 한 개인 프로젝트
-  * [0/0 부정형의 심플한 극한 계산기](https://github.com/lhwdev/project-math/blob/python)
+  * [0/0 부정형의 심플한 극한 계산기](https://github.com/lhwdev/project-math)
   * [사원수에 기반한 간단한 3d projection](https://github.com/lhwdev/project-3d-projection)
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem) (허접함)
   * [라즈베리 기반 자동차 원격제어 앱](https://github.com/lhwdev/project-vrcar) (와이파이)
