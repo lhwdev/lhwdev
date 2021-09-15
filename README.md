@@ -24,9 +24,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS이 있습니다.
   기회가 되면 Rust도 써보고 싶네요.
 
-- 써본 프레임워크/도구에는 **Android**, Jetpack Compose(Android, Desktop), React, **Gradle**, node.js,
+- 써본 프레임워크/도구에는 **Android**, Jetpack Compose(Android, Desktop), React, **Gradle**, Deno, node.js,
   webpack, babel, eslint, posthtml/postcss 등이 있고,
-  써보고 싶은 거에는 Svelte, SWC, Deno가 있습니다.
+  써보고 싶은 거에는 Svelte, SWC가 있습니다.
   * Gradle: 시행착오를 아주 많이 해봤습니다. 어느정도 규모의 새 프로젝트를 만든다면 Version Catalog를 통해
     dependency 버전을 관리할 계획입니다.
 
