@@ -33,7 +33,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 - 좋아하는 UI 프레임워크는 **Jetpack Compose**입니다.
   옛날부터 지켜봐왔고(`+memo {}` 같은 해괴한 api가 있을 때부터) 소스코드도 여러번 뜯어봤습니다.
   내부구조를 깊숙하게 이해하고 있습니다. 라고 생각합니다.
-  버그 제보로 아주 약간의 기여를 하기도 했습니다.
+  [버그 제보](https://youtrack.jetbrains.com/issue/KT-44499)로 아주 약간의 기여를 하기도 했습니다.
 
 - 새로운 무언가를 만들기 좋아합니다.
   > Reinventing the wheel is sometimes **exciting**.
