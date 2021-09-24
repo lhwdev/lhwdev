@@ -1,8 +1,8 @@
 ## Hello, you right there! 👋
-I'm a student developer in high school.  
+I'm a student developer in high school, lhwdev. (he/him)  
 I want to be programmer, maybe, and I code things to get my life better. (+ also for fun!)
 
-취미로 개발하는 고등학생 개발자 이현우라고 합니다!
+취미로 개발하는 고등학생 2학년 개발자 이현우라고 합니다!
 
 <br>
 
