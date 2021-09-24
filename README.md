@@ -39,6 +39,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   내부구조를 깊숙하게 이해하고 있습니다. 라고 생각합니다.
   [버그 제보](https://youtrack.jetbrains.com/issue/KT-44499)로 아주 약간의 기여를 하기도 했습니다.
 
+- 사용하는 IDE에는 Intellij IDEA(안드로이드/코틀린 개발), Visual Studio Code(JS/Python 개발)을 주로 씁니다.
+  깃은 Intellij의 UI나 cli를 선호하는 편이며, Intellij를 꽤 오래 써서 각종 기능이나 단축키를 어느정도 알고 있는 상태입니다.
+
 - 새로운 무언가를 만들기 좋아합니다.
   > Reinventing the wheel is sometimes **exciting**.
 
