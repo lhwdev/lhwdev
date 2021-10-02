@@ -4,6 +4,10 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 취미로 개발하는 고등학생 2학년 개발자 이현우라고 합니다!
 
+![Kotlin](https://img.shields.io/badge/Kotiln-5472f7?style=for-the-badge&logo=kotlin&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7d62d?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-4ba4bd?style=for-the-badge&logo=python&logoColor=000)
+
 <br>
 
 ## 나의 특징
@@ -18,6 +22,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 - 밑에서 보면 알 수 있듯 다양한 경험을 해봤지만 **주로 했던 것은 안드로이드 개발**입니다.
   전반적인 앱 개발을 주로 하며, UI 디자인도 좋아합니다.
+
 - **Kotlin**이 가장 자신있는 언어이자 가장 좋아하고 자주 쓰는 언어입니다.
   심지어 코틀린 [컴파일러](https://github.com/lhwdev/Model) [플러그인](https://github.com/lhwdev/kt-ui/blob/master/compiler-plugin)을
   만들기도 했습니다.
