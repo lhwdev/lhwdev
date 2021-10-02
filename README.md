@@ -51,7 +51,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 - **코로나19 자가진단 매크로 앱**
   
   교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로.
-  * 매일 자가진단을 하기가 귀찮아서 만들었습니다.
+  * 매일 자가진단을 하기가 귀찮아서 만들었습니다. 지금 꽤 많은 학생분들이 이 앱을 쓰고 있으며, 버그가 있다면 열심히
+    업데이트하고 있습니다.
   * (v3.0.0 기준) UI를 정성들여 만들었고, 다양한 편의기능(여러명 동시 진단, 렌덤 시간, 주말 제외 기능 등)이 있습니다.
   * [내부 API 구조를 분석한 PoC를 올렸습니다.](https://github.com/lhwdev/covid-selftest-macro/blob/master/PoC.md)
   * 자가진단 하기 귀찮아서 만든 거라 초기에 코드가 지저분했고, 현재 아키텍쳐를 어느 정도 깔끔하게 갈아엎었습니다.
