@@ -37,7 +37,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   webpack, babel, eslint, posthtml/postcss 등이 있고,
   써보고 싶은 거에는 Svelte, SWC가 있습니다.
   * Gradle: 시행착오를 아주 많이 해봤습니다. 어느정도 규모의 새 프로젝트를 만든다면 Version Catalog를 통해
-    dependency 버전을 관리할 계획입니다.
+    dependency 버전을 관리하고, buildSrc에 일부 유틸리티 코드를 넣어서 쓰곤 합니다.
 
 - 좋아하는 UI 프레임워크는 **Jetpack Compose**입니다.
   옛날부터 지켜봐왔고(`+memo {}` 같은 해괴한 api가 있을 때부터) 소스코드도 여러번 뜯어봤습니다.
@@ -48,7 +48,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   깃은 Intellij의 UI나 cli를 선호하는 편이며, Intellij를 꽤 오래 써서 각종 기능이나 단축키를 어느정도 알고 있는 상태입니다.
 
 - 새로운 무언가를 만들기 좋아합니다.
-  > Reinventing the wheel is sometimes **exciting**.
+  > _Reinventing the wheel is sometimes **exciting**._
 
 <br>
 
