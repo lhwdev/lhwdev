@@ -68,7 +68,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * [사원수에 기반한 간단한 3d projection](https://github.com/lhwdev/project-3d-projection)
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem)
     - `old` 브랜치: 고1때 만든 허상뿐인 생태계 모델, 허점이 많음
-    - `master` 브랜치: 유니티 게임엔진으로 만든 3d 물리적 시뮬레이터. 유전자 및 번식도 구현
+    - `master` 브랜치: 유니티 게임엔진으로 만든 3d 물리적 시뮬레이터. 유전자 및 번식도 구현했으나
+      기본적인 틀이나 UI는 [다른 리포](https://github.com/SebLague/Ecosystem-2)를 참고함
   * [라즈베리 기반 자동차 원격제어 앱](https://github.com/lhwdev/project-vrcar) (와이파이)
 
 - [개발일지](https://lhwdev.github.io/note)
