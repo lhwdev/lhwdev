@@ -5,8 +5,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 취미로 개발하는 고등학생 2학년 개발자 이현우라고 합니다!
 
 ![Kotlin](https://img.shields.io/badge/Kotiln-5472f7?style=for-the-badge&logo=kotlin&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7d62d?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-4ba4bd?style=for-the-badge&logo=python&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7d62d?style=for-the-badge&logo=javascript&logoColor=440)
+![Python](https://img.shields.io/badge/Python-3ba4dd?style=for-the-badge&logo=python&logoColor=015)
 
 <br>
 
@@ -65,6 +65,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
     운영하고 있습니다.
 
 - 고등학교에서 한 개인 프로젝트
+  * [공동교육과정 등 프로그래밍 수업](https://github.com/lhwdev/programming-lesson)
+    - `프로그래밍`: Jupyter Notebook 사용, 파이썬 기초
+    - `응용프로그래밍개발`: 파이썬 tkinter로 GUI 만들기, 기본적인 알고리즘
   * [0/0 부정형의 심플한 극한 계산기](https://github.com/lhwdev/project-math)
   * [사원수에 기반한 간단한 3d projection](https://github.com/lhwdev/project-3d-projection)
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem)
