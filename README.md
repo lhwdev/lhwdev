@@ -61,16 +61,17 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * (v3.0.0 기준) UI를 정성들여 만들었고, 다양한 편의기능(여러명 동시 진단, 렌덤 시간, 주말 제외 기능 등)이 있습니다.
   * [내부 API 구조를 분석한 PoC를 올렸습니다.](https://github.com/lhwdev/covid-selftest-macro/blob/master/PoC.md)
   * 자가진단 하기 귀찮아서 만든 거라 초기에 코드가 지저분했고, 현재 아키텍쳐를 어느 정도 깔끔하게 갈아엎었습니다.
-  * 만들 때 다른 분들의 도움을 좀 받았고, 도움을 주고 있습니다.
+  * 만들 때 다른 분들의 도움을 좀 받았고, 도움을 주고 있습니다. 그리고 [관련된 깃허브 Organization](https://github.com/covid-hcs)도
+    운영하고 있습니다.
 
 - 고등학교에서 한 개인 프로젝트
   * [0/0 부정형의 심플한 극한 계산기](https://github.com/lhwdev/project-math)
   * [사원수에 기반한 간단한 3d projection](https://github.com/lhwdev/project-3d-projection)
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem)
     - `old` 브랜치: 고1때 만든 허상뿐인 생태계 모델, 허점이 많음
-    - `master` 브랜치: 유니티 게임엔진으로 만든 3d 물리적 시뮬레이터. 유전자 및 번식도 구현했으나
-      기본적인 틀이나 UI는 [다른 리포](https://github.com/SebLague/Ecosystem-2)를 참고함
-  * [라즈베리 기반 자동차 원격제어 앱](https://github.com/SebLague/Ecosystem-2/blob/5763e0f6a4495d5b15a1c24083c9672dd5b3acd3/README.md) (와이파이)
+    - `master` 브랜치: 유니티 게임엔진으로 만든 3d 물리적 시뮬레이터. 유전자 및 번식도 구현했고 상당히 기능이 많으나
+      기본적인 틀이나 UI는 [다른 리포](https://github.com/SebLague/Ecosystem-2/tree/5763e0f6a4495d5b15a1c24083c9672dd5b3acd3)를 참고함
+  * [라즈베리 기반 자동차 원격제어 앱](https://github.com/lhwdev/project-vrcar) (와이파이)
 
 - [개발일지](https://lhwdev.github.io/note)
   * 하나하나 html 만져가며 만들고 싶었지만... 시간이 없어서 마크다운 + mkdocs로 만들었습니다.
