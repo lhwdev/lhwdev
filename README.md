@@ -67,7 +67,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 - 고등학교에서 한 개인 프로젝트
   * [공동교육과정 등 프로그래밍 수업](https://github.com/lhwdev/programming-lesson)
     - `프로그래밍`: Jupyter Notebook 사용, 파이썬 기초
-    - `응용프로그래밍개발`: 파이썬 tkinter로 GUI 만들기, 기본적인 알고리즘
+    - `응용프로그래밍개발`: 파이썬 tkinter로 GUI 만들기, 기본적인 알고리즘.
+      프로젝트로 고급 계산기를 만듦 (수식 파서: 연산자 우선순위 고려, 기본적 사칙연산, 삼각함수 등)
   * [0/0 부정형의 심플한 극한 계산기](https://github.com/lhwdev/project-math)
   * [사원수에 기반한 간단한 3d projection](https://github.com/lhwdev/project-3d-projection)
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem)
