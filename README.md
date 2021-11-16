@@ -28,14 +28,14 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   만들기도 했습니다.
 
 - 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, **Python**, Java가 있습니다.
-  조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS이 있습니다.
+  조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS, C#이 있습니다.
   기회가 되면 Rust도 써보고 싶네요.  
   어느 정도 규모의 프로젝트나, 안드로이드 앱은 다 코틀린으로 짭니다. 수학, 과학 등이나 간단하게 테스트해볼 것들은
   주로 파이썬을 씁니다.
 
 - 써본 프레임워크/도구에는 **Android**, Jetpack Compose(Android, Desktop), React, **Gradle**, Deno, node.js,
   webpack, babel, eslint, posthtml/postcss 등이 있고,
-  써보고 싶은 거에는 Svelte, SWC가 있습니다.
+  써보고 싶은 거에는 Svelte, SWC가 있습니다. 게임엔진으로 Unity를 써봤습니다.
   * Gradle: 시행착오를 아주 많이 해봤습니다. 어느정도 규모의 새 프로젝트를 만든다면 Version Catalog를 통해
     dependency 버전을 관리하고, buildSrc에 일부 유틸리티 코드를 넣어서 쓰곤 합니다.
 
@@ -70,7 +70,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * [공동교육과정 등 프로그래밍 수업](https://github.com/lhwdev/programming-lesson)
     - `프로그래밍`: Jupyter Notebook 사용, 파이썬 기초
     - `응용프로그래밍개발`: 파이썬 tkinter로 GUI 만들기, 기본적인 알고리즘.
-      프로젝트로 고급 계산기를 만듦 (수식 파서: 연산자 우선순위 고려, 기본적 사칙연산, 삼각함수 등)
+      프로젝트로 고급 계산기를 만듦 (수식 파서: 연산자 우선순위 고려, 기본적인 사칙연산, 삼각함수 등)
   * [0/0 부정형의 심플한 극한 계산기](https://github.com/lhwdev/project-math)
   * [사원수에 기반한 간단한 3d projection](https://github.com/lhwdev/project-3d-projection)
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem)
