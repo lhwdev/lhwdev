@@ -45,7 +45,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   [버그 제보](https://youtrack.jetbrains.com/issue/KT-44499)로 아주 약간의 기여를 하기도 했습니다.
 
 - 사용하는 IDE에는 Intellij IDEA(안드로이드/코틀린 개발), Visual Studio Code(JS/Python 개발)을 주로 씁니다.
-  깃은 Intellij의 UI나 cli를 선호하는 편이며, Intellij를 꽤 오래 써서 각종 기능이나 단축키를 어느정도 알고 있는 상태입니다.
+  Git은 Intellij의 UI나 cli를 선호하는 편이며(아무리 다른게 좋아도 cli가 편할 때가 있더라고요),
+  Intellij를 꽤 오래 써서 각종 기능이나 단축키를 어느정도 알고 있는 상태입니다.
 
 - 새로운 무언가를 만들기 좋아합니다.
   > _Reinventing the wheel is sometimes **exciting**._
@@ -70,7 +71,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * [공동교육과정 등 프로그래밍 수업](https://github.com/lhwdev/programming-lesson)
     - `프로그래밍`: Jupyter Notebook 사용, 파이썬 기초
     - `응용프로그래밍개발`: 파이썬 tkinter로 GUI 만들기, 기본적인 알고리즘.
-      프로젝트로 고급 계산기를 만듦 (수식 파서: 연산자 우선순위 고려, 기본적인 사칙연산, 삼각함수 등)
+      프로젝트로 [고급 계산기](https://github.com/lhwdev/programming-lesson/blob/master/comedu/application-dev/project/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)를 만듦 (수식 파서: 연산자 우선순위 고려, 기본적인 사칙연산, 삼각함수 등)
   * [0/0 부정형의 심플한 극한 계산기](https://github.com/lhwdev/project-math)
   * [사원수에 기반한 간단한 3d projection](https://github.com/lhwdev/project-3d-projection)
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem)
