@@ -38,6 +38,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   써보고 싶은 거에는 Svelte, SWC가 있습니다. 게임엔진으로 Unity를 써봤습니다.
   * Gradle: 시행착오를 아주 많이 해봤습니다. 어느정도 규모의 새 프로젝트를 만든다면 Version Catalog를 통해
     dependency 버전을 관리하고, buildSrc에 일부 유틸리티 코드를 넣어서 쓰곤 합니다.
+    [매번 설정하기 귀찮아서 만든 템플릿도 있습니다.](https://github.com/lhwdev/gradle-project-template)
 
 - 좋아하는 UI 프레임워크는 **Jetpack Compose**입니다.
   옛날부터 지켜봐왔고(`+memo {}` 같은 해괴한 api가 있을 때부터) 소스코드도 여러번 뜯어봤습니다.
