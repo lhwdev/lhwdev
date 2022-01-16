@@ -24,8 +24,6 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   전반적인 앱 개발을 주로 하며, UI 디자인도 좋아합니다.
 
 - **Kotlin**이 가장 자신있는 언어이자 가장 좋아하고 자주 쓰는 언어입니다.
-  심지어 코틀린 [컴파일러](https://github.com/lhwdev/Model) [플러그인](https://github.com/lhwdev/kt-ui/blob/master/compiler-plugin)을
-  만들기도 했습니다.
 
 - 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, **Python**, Java가 있습니다.
   조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS, C#이 있습니다.
@@ -55,9 +53,12 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 <br>
 
 ## 지금까지 한 것들
-- [**코로나19 자가진단 매크로 앱**](https://github.com/lhwdev/covid-selftest-macro)
+프로그래밍은 대부분 재미로 하기 때문에 완성되지 않거나 별로인 것들도 많습니다.
+
+- [**코로나19 자가진단 매크로 앱**](https://github.com/lhwdev/covid-selftest-macro)  
+  교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로. 앱을 만들면서 '남이 쓰고있다'는 일종의 의무감을
+  갖고 열심히 유지보수한 최초의 앱입니다.
   
-  교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로.
   * 매일 자가진단을 하기가 귀찮아서 만들었습니다. 지금 꽤 많은 학생분들이 이 앱을 쓰고 있으며, 버그가 있다면 열심히
     업데이트하고 있습니다. 참고로 2021년 11월 14일 기준 '자가진단 매크로'를 검색했을 때 [네이버에서 맨 위에](selfTestMacro_search_naver.jpg),
     [구글에서는 맨 위에서 4번째](selfTestMacro_search_google.jpg)로 노출되었습니다. 2.16 버전을 기준으로 누적 다운로드
@@ -82,11 +83,22 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * [라즈베리 기반 자동차 원격제어 앱](https://github.com/lhwdev/project-vrcar) (와이파이)
 
 - [개발일지](https://lhwdev.github.io/note)
-  * 하나하나 html 만져가며 만들고 싶었지만... 시간이 없어서 마크다운 + mkdocs로 만들었습니다.
+  하나하나 html 만져가며 만들고 싶었지만... 시간이 없어서 마크다운 + mkdocs로 만들었습니다.
+  
+  * [Jetpack Compose 컴파일러 플러그인 분석](https://lhwdev.github.io/note/compose/how-it-works)
+  * [윈도우에서 커널 드라이버 직접 서명하기](https://lhwdev.github.io/note/other/windows-self-driver-signing)
+
+- 🚧 코틀린 컴파일러 플러그인들: 🚧 [Model (상태 관리)](https://github.com/lhwdev/Model),
+  ⏸ [kt-ui (Jetpack Compose 따라한거)](https://github.com/lhwdev/kt-ui/blob/master/compiler-plugin)
 
 - 🚧 디스코드 봇들
+  * [my-test-bot](https://github.com/lhwdev/my-test-bot): 필요해서 대충 만든거 치고는 명령어 시스템을 짜놓았고,
+    라이브 리로딩도 됩니다. 유튜브 음악 재생, 투표 등 자잘한 기능이 몇 개 있고 discord.js로 만들었습니다.
+  * 🚧 [lhwdev-bot](https://github.com/lhwdev/lhwdev-bot): 디스코드 봇 라이브러리들을 쓰면서 생산적으로 무언가를
+    만드는데 한계를 느껴 Jetpack Compose의 State를 비롯한 Snapshot api를 이용해 상태를 관리할 수 있고, api를
+    추상화해서 디스코드 뿐만이 아니라 다른 플랫폼으로도 확장할 수 있게 만들고 있는 봇입니다.
 
-- ~~ASM(Android Studio Mobile)~~
+- [~~ASM(Android Studio Mobile)~~](https://github.com/asm-ide/ASM/tree/f38ac8f8fd95daa5890711fb67e6dae31269bb18)
   * 어릴 때 만들다 말아서 코드가 지저분합니다.
 <br>
 
