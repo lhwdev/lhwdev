@@ -81,6 +81,13 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
     - `master` 브랜치: 유니티 게임엔진으로 만든 3d 물리적 시뮬레이터. 유전자 및 번식도 구현했고 상당히 기능이 많으나
       기본적인 틀이나 UI는 [다른 리포](https://github.com/SebLague/Ecosystem-2/tree/5763e0f6a4495d5b15a1c24083c9672dd5b3acd3)를 참고함
   * [라즈베리 기반 자동차 원격제어 앱](https://github.com/lhwdev/project-vrcar) (와이파이)
+  * 수식 계산기([만들다 때려친 첫 버전](https://github.com/lhwdev/project-math/tree/master),
+    [만들고 있지만 때려치거나 대학수학을 배운 후에야 구현될 가능성이 높은 두번째 버전](https://github.com/lhwdev/math):
+    개발하면서 제 수학적 지식의 한계를 많이 느꼈습니다. 확실히 어떤 것을 구현하려면 관련된 지식이 아주 많이 있어야 하는 거 같네요.
+    처음 목표는 **수학적으로 엄밀하고**, 미분을 할 수 있고 방정식의 대수적 해를 구할 수 있는 걸 만들고 싶었지만 `수학적으로 엄밀하고`라는
+    전제 하에서는 x+1=2의 해가 x=1인 이유조차 설명하기 어려웠습니다.  
+    공리계부터 시작해서 모든 정리들을 쌓아나가는, 어떤 일련의 수식을 입력하면 논리적으로 검증해줘서 수학적 증명이나 계산을 편하게 해주는 그런
+    계산기를 목표로 하고 있습니다. (꿈은 크게!)
 
 - [개발일지](https://lhwdev.github.io/note)
   하나하나 html 만져가며 만들고 싶었지만... 시간이 없어서 마크다운 + mkdocs로 만들었습니다.
