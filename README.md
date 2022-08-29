@@ -40,9 +40,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 - **Kotlin**이 가장 자신있는 언어이자 가장 좋아하고 자주 쓰는 언어입니다.
 
-- 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, **Python**, Java가 있습니다.
-  조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS, C#이 있습니다.
-  기회가 되면 Rust도 써보고 싶네요.  
+- 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, **Rust**m Python, Java가 있습니다.
+  조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS, C#이 있습니다.  
   어느 정도 규모의 프로젝트나, 안드로이드 앱은 다 코틀린으로 짭니다. 수학, 과학 등이나 간단하게 테스트해볼 것들은
   주로 파이썬을 씁니다.
 
@@ -83,6 +82,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * 자가진단 하기 귀찮아서 만든 거라 초기에 코드가 지저분했고, 현재 아키텍쳐를 어느 정도 깔끔하게 갈아엎었습니다.
   * 만들 때 다른 분들의 도움을 좀 받았고, 도움을 주고 있습니다. 그리고 [관련된 깃허브 Organization](https://github.com/covid-hcs)도
     운영하고 있습니다.
+
+- [웹사이트](https://github.com/lhwdev/website)
+  * 절찬 개발 중, Rust, Rocket 기반 백엔드
 
 - 고등학교에서 한 개인 프로젝트
   * [공동교육과정 등 프로그래밍 수업](https://github.com/lhwdev/programming-lesson)
