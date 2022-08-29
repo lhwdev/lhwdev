@@ -40,7 +40,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 - **Kotlin**이 가장 자신있는 언어이자 가장 좋아하고 자주 쓰는 언어입니다.
 
-- 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, **Rust**m Python, Java가 있습니다.
+- 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, **Rust**, Python, Java가 있습니다.
   조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS, C#이 있습니다.  
   어느 정도 규모의 프로젝트나, 안드로이드 앱은 다 코틀린으로 짭니다. 수학, 과학 등이나 간단하게 테스트해볼 것들은
   주로 파이썬을 씁니다.
