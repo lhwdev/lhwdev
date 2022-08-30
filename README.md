@@ -42,11 +42,11 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 - 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, **Rust**, Python, Java가 있습니다.
   조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS, C#이 있습니다.  
-  어느 정도 규모의 프로젝트나, 안드로이드 앱은 다 코틀린으로 짭니다. 수학, 과학 등이나 간단하게 테스트해볼 것들은
+  어느 정도 규모의 프로젝트나, 안드로이드 앱은 러스트나 코틀린으로 짭니다. 수학, 과학 등이나 간단하게 테스트해볼 것들은
   주로 파이썬을 씁니다.
 
 - 써본 프레임워크/도구에는 **Android**, Jetpack Compose(Android, Desktop), React, **Gradle**, Deno, node.js,
-  webpack, babel, eslint, posthtml/postcss 등이 있고,
+  **Rocket** (Rust), webpack, babel, eslint, posthtml/postcss 등이 있고,
   써보고 싶은 거에는 Svelte, SWC가 있습니다. 게임엔진으로 Unity를 써봤습니다.
   * Gradle: 시행착오를 아주 많이 해봤습니다. 어느정도 규모의 새 프로젝트를 만든다면 Version Catalog를 통해
     dependency 버전을 관리하고, buildSrc에 일부 유틸리티 코드를 넣어서 쓰곤 합니다.
@@ -56,6 +56,13 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   옛날부터 지켜봐왔고(`+memo {}` 같은 해괴한 api가 있을 때부터) 소스코드도 여러번 뜯어봤습니다.
   내부구조를 깊숙하게 이해하고 있습니다. 라고 생각합니다.
   [버그 제보](https://youtrack.jetbrains.com/issue/KT-44499)로 아주 약간의 기여를 하기도 했습니다.
+
+- 좋아하는 백엔드 웹 프레임워크는 **Rocket**입니다.  
+  Rust의 독특한 타입 시스템(trait 기반)이랑 결합해서 각 Route가 받는 값의 검증은 모두 타입을 통해 이루어진다는
+  것이 색달랐습니다. `FromRequest`를 구현해서 `fn get_info(user: User)` 같은 식으로 의미적으로 완벽한
+  코드를 짤 수 있으면서 동시에 타입 시스템으로부터 보안을 보장받게 됩니다.  
+  + [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)라는
+  글도 참고하세요.
 
 - 사용하는 IDE에는 Intellij IDEA(안드로이드/코틀린 개발), Visual Studio Code(JS/Python 개발)을 주로 씁니다.
   Git은 Intellij의 UI나 cli를 선호하는 편이며(아무리 다른게 좋아도 cli가 편할 때가 있더라고요),
