@@ -44,6 +44,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS, C#이 있습니다.  
   어느 정도 규모의 프로젝트나, 안드로이드 앱은 러스트나 코틀린으로 짭니다. 수학, 과학 등이나 간단하게 테스트해볼 것들은
   주로 파이썬을 씁니다.
+  추가로 수학에 재미가 붙다보니 Haskell을 파보고 있습니다..
 
 - 써본 프레임워크/도구에는 **Android**, Jetpack Compose(Android, Desktop), React, **Gradle**, Deno, node.js,
   **Rocket** (Rust), webpack, babel, eslint, posthtml/postcss 등이 있고,
