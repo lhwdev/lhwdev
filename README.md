@@ -77,19 +77,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 ## 지금까지 한 것들
 프로그래밍은 대부분 재미로 하기 때문에 완성되지 않거나 별로인 것들도 많습니다.
 
-- [**코로나19 자가진단 매크로 앱**](https://github.com/lhwdev/covid-selftest-macro)  
+- ~~[**코로나19 자가진단 매크로 앱**](https://github.com/lhwdev/covid-selftest-macro)~~  
   교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로. 앱을 만들면서 '남이 쓰고있다'는 일종의 의무감을
   갖고 열심히 유지보수한 최초의 앱입니다.
-  
-  * 매일 자가진단을 하기가 귀찮아서 만들었습니다. 지금 꽤 많은 학생분들이 이 앱을 쓰고 있으며, 버그가 있다면 열심히
-    업데이트하고 있습니다. 참고로 2021년 11월 14일 기준 '자가진단 매크로'를 검색했을 때 [네이버에서 맨 위에](selfTestMacro_search_naver.jpg),
-    [구글에서는 맨 위에서 4번째](selfTestMacro_search_google.jpg)로 노출되었습니다. 2.16 버전을 기준으로 누적 다운로드
-    수가 700회를 넘었습니다.
-  * (v3.0.0 기준) UI를 정성들여 만들었고, 다양한 편의기능(여러명 동시 진단, 렌덤 시간, 주말 제외 기능 등)이 있습니다.
-  * [내부 API 구조를 분석한 PoC를 올렸습니다.](https://github.com/lhwdev/covid-selftest-macro/blob/master/PoC.md)
-  * 자가진단 하기 귀찮아서 만든 거라 초기에 코드가 지저분했고, 현재 아키텍쳐를 어느 정도 깔끔하게 갈아엎었습니다.
-  * 만들 때 다른 분들의 도움을 좀 받았고, 도움을 주고 있습니다. 그리고 [관련된 깃허브 Organization](https://github.com/covid-hcs)도
-    운영하고 있습니다.
 
 - [웹사이트](https://github.com/lhwdev/website)
   * 절찬 개발 중, Rust, Rocket 기반 백엔드
