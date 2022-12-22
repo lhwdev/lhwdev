@@ -2,7 +2,7 @@
 I'm a student developer in high school, lhwdev. (he/him)  
 I want to be programmer, maybe, and I code things to get my life better. (+ also for fun!)
 
-취미로 개발하는 고등학생 3학년, ~~수험생.. 하...~~ 감성있는 프로그래머가 되고 싶은 이현우라고 합니다!
+취미로 개발하는 이현우라고 합니다!
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-5472f7?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7d62d?style=for-the-badge&logo=javascript&logoColor=440)
