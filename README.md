@@ -10,20 +10,17 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 <br>
 
-## 나의 관심사
-- **수학**: 실수의 완비적 조건이라던지 엡실론 델타 논법, 군/환/체 등, 수학이라는 분야
-  자체에 흥미가 있습니다.
-- **물리학**: 벡터 해석학과 연계해서 다양한 것들을 하는 것이 상당히 흥미로웠습니다.
-  모르는 것을 알아가는 것이 재미있습니다.
-- **디자인**: 앱/웹/프로그램 디자인도 좋아합니다. 발표할 일이 있으면 파워포인트에 디자인
-  욕구를 풀어놓기도 합니다. Material You(M3)이나 One UI 4같은 디자인 시스템을 선호합니다.
-  Oklab등 color space 같은 자료도 찾아서 읽고 있습니다.  
-  UI/UX 관련 글도 많이 찾아보곤 합니다. 나와 많이 다른 사람들의 시각으로 무언가를 바라본다는
-  것이 상당히 어렵다는 것을 체감하고 있습니다.
-- **당연히... 프로그래밍!**: 상상을 실제로 구현하는 것이 재미있습니다. 그리고 누군가의
-  삶을 편하게 개선한다는 것이 저를 엄청 의미있는 사람으로 만들어주는 것 같았어요.  
-  그리고 위에 나온 학문들을 실제로 구현하면 그 이해도도 높아지고 흥미를 가지게 되더라고요.
+## 나의 최근 관심사
 
+- 📦 **Jetbrains Compose**: 특히 데스크탑 UI.
+  
+  - Windows에서 창의 프레임이 자연스럽게 녹아들 수 있게 하기 (jna, Win32 api)
+  - Material 3 디자인과 플랫폼의 디자인을 데스크탑에 녹여내기
+
+- 🚀 **Rocket (Rust)**: 웹 서버 프레임워크.
+  
+  - Rust라는 언어가 쓰다보니 꽤 마음에 들어서 쓰게 됨.
+  - Notion 클론을 만들어보고 싶은데, 진도가 안나가는 중.
 
 ## 나의 특징
 - 코드를 예쁘고 잘 읽히게 짜는 걸 좋아합니다. 만약 이렇지 않은 코드가 있다면 옛날에
@@ -96,16 +93,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
     - `master` 브랜치: 유니티 게임엔진으로 만든 3d 물리적 시뮬레이터. 유전자 및 번식도 구현했고 상당히 기능이 많으나
       기본적인 틀이나 UI는 [다른 리포](https://github.com/SebLague/Ecosystem-2/tree/5763e0f6a4495d5b15a1c24083c9672dd5b3acd3)를 참고함
   * [라즈베리 기반 자동차 원격제어 앱](https://github.com/lhwdev/project-vrcar) (와이파이)
-  * 수식 계산기([만들다 때려친 첫 버전](https://github.com/lhwdev/project-math/tree/master),
-    [만들고 있지만 때려치거나 대학수학을 배운 후에야 구현될 가능성이 높은 두번째 버전](https://github.com/lhwdev/math):
-    개발하면서 제 수학적 지식의 한계를 많이 느꼈습니다. 확실히 어떤 것을 구현하려면 관련된 지식이 아주 많이 있어야 하는 거 같네요.
-    처음 목표는 **수학적으로 엄밀하고**, 미분을 할 수 있고 방정식의 대수적 해를 구할 수 있는 걸 만들고 싶었지만 `수학적으로 엄밀하고`라는
-    전제 하에서는 x+1=2의 해가 x=1인 이유조차 설명하기 어려웠습니다.  
-    공리계부터 시작해서 모든 정리들을 쌓아나가는, 어떤 일련의 수식을 입력하면 논리적으로 검증해줘서 수학적 증명이나 계산을 편하게 해주는 그런
-    계산기를 목표로 하고 있습니다. (꿈은 크게!) (이거 하려면... 추상대수, 범주론, **집합론, 수리논리학**을 배워야)
 
 - [개발일지](https://lhwdev.github.io/note)
-  하나하나 html 만져가며 만들고 싶었지만... 시간이 없어서 마크다운 + mkdocs로 만들었습니다.
+  하나하나 html 만져가며 만들고 싶었지만... 시간이 없어서 마크다운 + mkdocs로 만들었습니다. ~~개발자들 특~~
   
   * [Jetpack Compose 컴파일러 플러그인 분석](https://lhwdev.github.io/note/compose/how-it-works)
   * [윈도우에서 커널 드라이버 직접 서명하기](https://lhwdev.github.io/note/other/windows-self-driver-signing)
@@ -113,15 +103,6 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 - 🚧 코틀린 컴파일러 플러그인들: 🚧 [Model (상태 관리)](https://github.com/lhwdev/Model),
   ⏸ [kt-ui (Jetpack Compose 따라한거)](https://github.com/lhwdev/kt-ui/blob/master/compiler-plugin)
 
-- 🚧 디스코드 봇들
-  * [my-test-bot](https://github.com/lhwdev/my-test-bot): 필요해서 대충 만든거 치고는 명령어 시스템을 짜놓았고,
-    라이브 리로딩도 됩니다. 유튜브 음악 재생, 투표 등 자잘한 기능이 몇 개 있고 discord.js로 만들었습니다.
-  * 🚧 [lhwdev-bot](https://github.com/lhwdev/lhwdev-bot): 디스코드 봇 라이브러리들을 쓰면서 생산적으로 무언가를
-    만드는데 한계를 느껴 Jetpack Compose의 State를 비롯한 Snapshot api를 이용해 상태를 관리할 수 있고, api를
-    추상화해서 디스코드 뿐만이 아니라 다른 플랫폼으로도 확장할 수 있게 만들고 있는 봇입니다.
-
-- [~~ASM(Android Studio Mobile)~~](https://github.com/asm-ide/ASM/tree/f38ac8f8fd95daa5890711fb67e6dae31269bb18)
-  * 어릴 때 만들다 말아서 코드가 지저분합니다.
 <br>
 
 ## Keep in touch
