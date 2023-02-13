@@ -7,7 +7,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 ![Kotlin](https://img.shields.io/badge/Kotlin-5472f7?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7d62d?style=for-the-badge&logo=javascript&logoColor=440)
 ![Python](https://img.shields.io/badge/Python-3ba4dd?style=for-the-badge&logo=python&logoColor=015)  
-[![SKKU 2023](https://img.shields.io/badge/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%ED%95%99%EA%B5%90%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%2023%ED%95%99%EB%B2%88-blue?color=8dc63f&style=for-the-badge)](https://cs.skku.edu/ko/)
+[![SKKU 2023](./assets/skku-badge-23.svg)](https://cs.skku.edu/ko/)
 
 <br>
 
