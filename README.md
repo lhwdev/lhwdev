@@ -13,6 +13,12 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 ## 나의 최근 관심사
 
+- 🖥️ [**llang**](https://github.com/lhwdev/llang): 프로그래밍 언어를 만들어보는 프로젝트.
+  
+  - IDE 만들기처럼 많은 프로그래머의 로망(?)일 것 같은 것. 재미로 해보는 중.
+  - 은근 배울 점이 많은 프로젝트.
+  - 참고로 언어 이름은 가명인데, 걍 `lhwdev language`임. (...)
+
 - 📦 **Jetbrains Compose**: 특히 데스크탑 UI.
   
   - Windows에서 창의 프레임이 자연스럽게 녹아들 수 있게 하기 (jna, Win32 api)
@@ -75,12 +81,12 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 ## 지금까지 한 것들
 프로그래밍은 대부분 재미로 하기 때문에 완성되지 않거나 별로인 것들도 많습니다.
 
-- ~~**코로나19 자가진단 매크로 앱**~~  
+- **코로나19 자가진단 매크로 앱**(안드로이드)  
   교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로. 앱을 만들면서 '남이 쓰고있다'는 일종의 의무감을
   갖고 열심히 유지보수한 첫 앱입니다.
 
 - [웹사이트](https://github.com/lhwdev/website)
-  * 절찬 개발 중, Rust, Rocket 기반 백엔드
+  * ~~절찬 개발 중~~, Rust, Rocket 기반 백엔드
 
 - 고등학교에서 한 개인 프로젝트
   * [공동교육과정 등 프로그래밍 수업](https://github.com/lhwdev/programming-lesson)
@@ -90,14 +96,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   * [0/0 부정형의 심플한 극한 계산기](https://github.com/lhwdev/project-math)
   * [사원수에 기반한 간단한 3d projection](https://github.com/lhwdev/project-3d-projection)
   * [생태계 시뮬레이션](https://github.com/lhwdev/EcoSystem)
-    - `old` 브랜치: 고1때 만든 허상뿐인 생태계 모델, 허점이 많음
-    - `master` 브랜치: 유니티 게임엔진으로 만든 3d 물리적 시뮬레이터. 유전자 및 번식도 구현했고 상당히 기능이 많으나
-      기본적인 틀이나 UI는 [다른 리포](https://github.com/SebLague/Ecosystem-2/tree/5763e0f6a4495d5b15a1c24083c9672dd5b3acd3)를 참고함
   * [라즈베리 기반 자동차 원격제어 앱](https://github.com/lhwdev/project-vrcar) (와이파이)
 
 - [개발일지](https://lhwdev.github.io/note)
-  하나하나 html 만져가며 만들고 싶었지만... 시간이 없어서 마크다운 + mkdocs로 만들었습니다. ~~개발자들 특~~
-  
   * [Jetpack Compose 컴파일러 플러그인 분석](https://lhwdev.github.io/note/compose/how-it-works)
   * [윈도우에서 커널 드라이버 직접 서명하기](https://lhwdev.github.io/note/other/windows-self-driver-signing)
 
