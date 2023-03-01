@@ -31,29 +31,20 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   - Notion 클론을 만들어보고 싶은데, 진도가 안나가는 중.
 
 ## 나의 특징
-- 코드를 예쁘고 잘 읽히게 짜는 걸 좋아합니다. 만약 이렇지 않은 코드가 있다면 옛날에
-  만들었거나 심심풀이용일 가능성이 높슾니다.  
-  그리고 네이밍을 최대한 직관적으로 하고자 합니다. 긴 이름이라도 잘 읽혀야죠.  
-
-- API 설계를 좋아합니다.
-  다만 TDD 같은 API가 쓰이는 곳을 더욱 고려해서 개발하는 방법을 써보고 싶습니다.
-
-- 소스코드 뜯어보는 것을 좋아하곤 합니다. 은근 재미있어요
 
 - 밑에서 보면 알 수 있듯 다양한 경험을 해봤지만 **주로 했던 것은 안드로이드 개발**입니다.
   전반적인 앱 개발을 주로 하며, UI 디자인도 좋아합니다.
 
-- **Kotlin**이 가장 자신있는 언어이자 가장 좋아하고 자주 쓰는 언어입니다.
+- **Kotlin**이 가장 자신있는 언어이자 가장 좋아하고 자주 쓰는 언어입니다. 그 다음으로는 **Rust**입니다.
 
-- 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, **Rust**, Python, Java가 있습니다.
+- 꽤 잘 할 줄 아는 언어에는 Kotlin, **JavaScript/TypeScript**, Python, Java가 있습니다.
   조금 아는 언어나 옛날에 썼지만 기억이 잘 안 나는 언어에는 C/C++, HTML/CSS/SASS, C#이 있습니다.  
   어느 정도 규모의 프로젝트나, 안드로이드 앱은 러스트나 코틀린으로 짭니다. 수학, 과학 등이나 간단하게 테스트해볼 것들은
   주로 파이썬을 씁니다.
-  추가로 수학에 재미가 붙다보니 Haskell을 파보고 있습니다..
 
 - 써본 프레임워크/도구에는 **Android**, Jetpack Compose(Android, Desktop), React, **Gradle**, Deno, node.js,
   **Rocket** (Rust), webpack, babel, eslint, posthtml/postcss 등이 있고,
-  써보고 싶은 거에는 Svelte, SWC가 있습니다. 게임엔진으로 Unity를 써봤습니다.
+  써보고 싶은 거에는 Svelte가 있습니다. 게임엔진으로 Unity를 약간 써봤습니다.
   * Gradle: 시행착오를 아주 많이 해봤습니다. 어느정도 규모의 새 프로젝트를 만든다면 Version Catalog를 통해
     dependency 버전을 관리하고, buildSrc에 일부 유틸리티 코드를 넣어서 쓰곤 합니다.
     [매번 설정하기 귀찮아서 만든 템플릿도 있습니다.](https://github.com/lhwdev/gradle-project-template)
@@ -70,11 +61,10 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   + [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)라는
   글도 참고하세요.
 
-- 사용하는 IDE에는 Intellij IDEA(안드로이드/코틀린 개발), Visual Studio Code(JS/Python 개발)을 주로 씁니다.
-  Git은 Intellij의 UI나 cli를 선호하는 편이며(아무리 다른게 좋아도 cli가 편할 때가 있더라고요),
-  Intellij를 꽤 오래 써서 각종 기능이나 단축키를 어느정도 알고 있는 상태입니다.
+- 사용하는 IDE로는 Intellij IDEA(안드로이드/코틀린 개발), Visual Studio Code(JS/Python 개발)을 주로 씁니다.
 
 - 새로운 무언가를 만들기 좋아합니다.
+  
   > _Reinventing the wheel is sometimes **exciting**._
 
 <br>
@@ -83,8 +73,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 프로그래밍은 대부분 재미로 하기 때문에 완성되지 않거나 별로인 것들도 많습니다.
 
 - **코로나19 자가진단 매크로 앱**(안드로이드)  
-  교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로. 앱을 만들면서 '남이 쓰고있다'는 일종의 의무감을
-  갖고 열심히 유지보수한 첫 앱입니다.
+  교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로. 앱을 만들면서 '남이 쓰고 있다'는 일종의 의무감을
+  갖고 열심히 유지보수한 앱입니다. 실제로 한때 몇백명 정도가 사용했을 것으로 추정하고 있습니다.
 
 - [웹사이트](https://github.com/lhwdev/website)
   * ~~절찬 개발 중~~, Rust, Rocket 기반 백엔드
