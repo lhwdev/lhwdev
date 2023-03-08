@@ -73,7 +73,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 ## 지금까지 한 것들
 프로그래밍은 대부분 재미로 하기 때문에 완성되지 않거나 별로인 것들도 많습니다.
 
-- **코로나19 자가진단 매크로 앱**(안드로이드)  
+- [**코로나19 자가진단 매크로 앱**](https://github.com/lhwdev/covid-selftest-macro)(안드로이드)  
   교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로. 앱을 만들면서 '남이 쓰고 있다'는 일종의 의무감을
   갖고 열심히 유지보수한 앱입니다. 실제로 한때 몇백명 정도가 사용했을 것으로 추정하고 있습니다.
 
