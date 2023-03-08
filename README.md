@@ -6,6 +6,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 현재 23학번, 1학년으로 성균관대학교 소프트웨어학과에 다니고 있습니다.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-5472f7?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-f08400?style=for-the-badge&logo=rust&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7d62d?style=for-the-badge&logo=javascript&logoColor=440)
 ![Python](https://img.shields.io/badge/Python-3ba4dd?style=for-the-badge&logo=python&logoColor=015)  
 [![SKKU 2023](./assets/skku-badge-23.svg)](https://cs.skku.edu/ko/)
