@@ -16,6 +16,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 ## 나의 최근 관심사
 
+- 🕶️ [**SCG 동아리 면접**](https://github.com/lhwdev/programming-lesson/tree/master/23-scg-pre-education): 교육 -> 과제 실행 형식으로 진행하는 면접.
+
 - 🖥️ [**llang**](https://github.com/lhwdev/llang): 프로그래밍 언어를 만들어보는 프로젝트.
   
   - IDE 만들기처럼 많은 프로그래머의 로망(?)일 것 같은 것. 재미로 해보는 중.
