@@ -16,8 +16,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 ## 나의 최근 관심사
 
-- ~~🕶️ [**SCG 동아리 면접**](https://github.com/lhwdev/programming-lesson/tree/master/23-scg-pre-education): 교육 -> 과제 실행 형식으로 진행하는 면접.~~ (면접 끝남)  
-  저 동아리 붙었어요..! 헤헤
+- &thinsp;[<img src="https://avatars.githubusercontent.com/u/39462049?s=100" width="16" height"16">](https://scg.skku.ac.kr)&thinsp; **System Consultant Group**: 성균관대학교의 일부 서비스들을 관리하는 학생자치단체.  
+  [신입부원 모집 면접자료](https://github.com/lhwdev/programming-lesson/tree/master/23-scg-pre-education)
 
 - 🖥️ [**llang**](https://github.com/lhwdev/llang): 프로그래밍 언어를 만들어보는 프로젝트.
   
