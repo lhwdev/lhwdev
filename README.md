@@ -18,6 +18,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 - &thinsp;<img src="https://avatars.githubusercontent.com/u/39462049?s=100" width="16" height="16" />&thinsp; [**System Consultant Group**](https://scg.skku.ac.kr): 성균관대학교의 일부 서비스들을 관리하는 _최고의_ 학생자치단체.  
   - [신입부원 모집 제출과제](https://github.com/lhwdev/programming-lesson/tree/master/23-scg-pre-education)
+  - 만들어보고 싶은 것: '프로그래밍 언어 만들기'(llang), '클라우드 동기화되는 OTP 앱'
 
 - 🖥️ [**llang**](https://github.com/lhwdev/llang): 프로그래밍 언어를 만들어보는 프로젝트.
   
