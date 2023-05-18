@@ -29,15 +29,12 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   - 은근 배울 점이 많은 프로젝트.
   - 참고로 언어 이름은 가명인데, 걍 `lhwdev language`임. (...)
 
-- 📦 **Jetbrains Compose**: 특히 데스크탑 UI.
-  
-  - Windows에서 창의 프레임이 자연스럽게 녹아들 수 있게 하기 (jna, Win32 api)
-  - Material 3 디자인과 플랫폼의 디자인을 데스크탑에 녹여내기
+- 📦 **React**: 프론트에서 살아남기
+  백스텍 상태 유지 + signal 스타일 상태 + Compose처럼 부분 re-render 기능
+  도입 시급
 
-- 🚀 **Rocket (Rust)**: 웹 서버 프레임워크.
-  
-  - Rust라는 언어가 쓰다보니 꽤 마음에 들어서 쓰게 됨.
-  - Notion 클론을 만들어보고 싶은데, 진도가 안나가는 중.
+- 🚀 **Next.js**: Server Action 같은거 다 좋은데 암만 그래도
+  프론트 코드에서 직접 db 쿼리하는 것 같은 그런 짓은 좀...
 
 ## 나의 특징
 
