@@ -106,5 +106,5 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 ## Keep in touch
 - 이메일: lhwdev6@outlook.com / (lhwdev@g.skku.edu)
-- 트위터: [lhwdev6](https://twitter.com/lhwdev6)
-- 디스코드: [lhwdev#7325](https://discord.com/users/551597391741059083)
+- 트위터: [@lhwdev6](https://twitter.com/lhwdev6)
+- 디스코드: [@lhwdev](https://discord.com/users/551597391741059083)
