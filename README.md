@@ -18,7 +18,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 - &thinsp;<img src="https://avatars.githubusercontent.com/u/39462049?s=100" width="16" height="16" />&thinsp; [**System Consultant Group**](https://scg.skku.ac.kr): 성균관대학교의 일부 서비스들을 관리하는 _최고의_ 학생자치단체.  
   - [신입부원 모집 제출과제](https://github.com/lhwdev/programming-lesson/tree/master/23-scg-pre-education)
-  - 만들어보고 싶은 것: '프로그래밍 언어 만들기'(llang), '클라우드 동기화되는 OTP 앱'
+  - 만들어보고 싶은 것: '프로그래밍 언어 만들기'(llang), 'SCG 동아리원 전용 SSO'
   - 요즘 웹 개발자 수요가 다른 것들에 비해 훨씬 많아진 것도 있고(네이티브 앱은... 엄...), 이 동아리에서
     개발해야 할 것도 웹이기 때문에 html, css, ts, React, Next.js, NestJs 같은 스택, Docker/Kubernetes 같은
     인프라 관련 내용을 배우고 있습니다.
@@ -27,9 +27,9 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   
   - IDE 만들기처럼 많은 프로그래머의 로망(?)일 것 같은 것. 재미로 해보는 중.
   - 은근 배울 점이 많은 프로젝트.
-  - 참고로 언어 이름은 가명인데, 걍 `lhwdev language`임. (...)
+  - 참고로 언어 이름은 가명인데, 창의력이 부족홰서 `lhwdev language`에서 따옴....
 
-- 📦 **React**: 프론트에서 살아남기
+- 📦 **React**: _프론트에서 살아남기_  
   백스텍 상태 유지 + signal 스타일 상태 + Compose처럼 부분 re-render 기능
   도입 시급
 
@@ -38,7 +38,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 ## 나의 특징
 
-- 밑에서 보면 알 수 있듯 다양한 경험을 해봤지만 **주로 했던 것은 안드로이드 개발**입니다.
+- 밑에서 보면 알 수 있듯 다양한 경험을 해봤지만 **과거에 주로 했던 것은 안드로이드 개발**입니다.
   전반적인 앱 개발을 주로 하며, UI 디자인도 좋아합니다.
 
 - **Kotlin**이 가장 자신있는 언어이자 가장 좋아하고 자주 쓰는 언어입니다. 그 다음으로는 **Rust**입니다.
@@ -49,8 +49,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   주로 파이썬을 씁니다.
 
 - 써본 프레임워크/도구에는 **Android**, Jetpack Compose(Android, Desktop), React, **Gradle**, Deno, node.js,
-  **Rocket** (Rust), webpack, babel, eslint, posthtml/postcss 등이 있고,
-  써보고 싶은 거에는 Svelte가 있습니다. 게임엔진으로 Unity를 약간 써봤습니다.
+  **Rocket** (Rust), eslint 등이 있습니다. 게임엔진으로 Unity를 약간 써봤습니다.
   * Gradle: 시행착오를 아주 많이 해봤습니다. 어느정도 규모의 새 프로젝트를 만든다면 Version Catalog를 통해
     dependency 버전을 관리하고, buildSrc에 일부 유틸리티 코드를 넣어서 쓰곤 합니다.
     [매번 설정하기 귀찮아서 만든 템플릿도 있습니다.](https://github.com/lhwdev/gradle-project-template)
@@ -67,7 +66,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
   + [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)라는
   글도 참고하세요.
 
-- 사용하는 IDE로는 Intellij IDEA(안드로이드/코틀린 개발), Visual Studio Code(JS/Python 개발)을 주로 씁니다.
+- 사용하는 IDE로는 Intellij IDEA(안드로이드/코틀린 개발), Visual Studio Code(웹/Python 개발)을 주로 씁니다.
 
 - 새로운 무언가를 만들기 좋아합니다.
   
@@ -80,10 +79,8 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 - [**코로나19 자가진단 매크로 앱**](https://github.com/lhwdev/covid-selftest-macro)(안드로이드)  
   교육청에서 만든 [자가진단 시스템](https://hcs.eduro.go.kr)에 대한 매크로. 앱을 만들면서 '남이 쓰고 있다'는 일종의 의무감을
-  갖고 열심히 유지보수한 앱입니다. 실제로 한때 몇백명 정도가 사용했을 것으로 추정하고 있습니다.
-
-- [웹사이트](https://github.com/lhwdev/website)
-  * ~~절찬 개발 중~~, Rust, Rocket 기반 백엔드
+  갖고 열심히 유지보수한 앱입니다. 실제로 한때 몇백명 정도가 사용했을 것으로 추정하고 있습니다.  
+  어쩌다 보니 자가진단 매크로 같은걸 만드는 사람들을 여러명 알게 되는 계기입니다.
 
 - 고등학교에서 한 개인 프로젝트
   * [공동교육과정 등 프로그래밍 수업](https://github.com/lhwdev/programming-lesson)
@@ -97,7 +94,7 @@ I want to be programmer, maybe, and I code things to get my life better. (+ also
 
 - [개발일지](https://lhwdev.github.io/note)
   * [Jetpack Compose 컴파일러 플러그인 분석](https://lhwdev.github.io/note/compose/how-it-works)
-  * [윈도우에서 커널 드라이버 직접 서명하기](https://lhwdev.github.io/note/other/windows-self-driver-signing)
+  * [윈도우에서 커널 드라이버 직접 서명하기](https://lhwdev.github.io/note/other/windows-self-driver-signing): 엄청난 삽질의 결
 
 - 🚧 코틀린 컴파일러 플러그인들: 🚧 [Model (상태 관리)](https://github.com/lhwdev/Model),
   ⏸ [kt-ui (Jetpack Compose 따라한거)](https://github.com/lhwdev/kt-ui/blob/master/compiler-plugin)
