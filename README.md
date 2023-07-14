@@ -1,8 +1,6 @@
-## Hello, you right there! 👋
-I'm a student developer, lhwdev. (he/him)  
-I want to be programmer, maybe, and I code things to get my life better. (+ also for fun!)
+# 안녕하세요! 👋
 
-취미로 개발하는 이현우라고 합니다!  
+개발을 좋아하는 이현우라고 합니다!  
 현재 23학번, 1학년으로 성균관대학교 소프트웨어학과에 다니고 있습니다.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-5472f7?style=for-the-badge&logo=kotlin&logoColor=fff)
