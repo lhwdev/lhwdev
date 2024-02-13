@@ -1,7 +1,7 @@
 # 안녕하세요! 👋
 
 개발을 좋아하는 이현우라고 합니다!  
-현재 23학번, 1학년으로 성균관대학교 소프트웨어학과에 다니고 있습니다.
+현재 23학번, 1학년을 끝마쳤고, 성균관대학교 소프트웨어학과에 다니다가 군휴학을 한 상태입니다.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-5472f7?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-f08400?style=for-the-badge&logo=rust&logoColor=fff)
