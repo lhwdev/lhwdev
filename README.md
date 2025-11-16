@@ -1,7 +1,7 @@
 # 안녕하세요! 👋
 
 개발을 좋아하는 이현우라고 합니다!  
-23학번, 1학년을 끝마친 상태고, 4/15일자로 육군에 입대했습니다...
+23학번, 1학년을 끝마친 상태고, 4/15일자로 육군에 입대했다가 전역했습니다!!!! 워허우
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-5472f7?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-f08400?style=for-the-badge&logo=rust&logoColor=fff)
