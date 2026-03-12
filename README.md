@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7d62d?style=for-the-badge&logo=javascript&logoColor=440)
 ![Python](https://img.shields.io/badge/Python-3ba4dd?style=for-the-badge&logo=python&logoColor=015)  
 [![SKKU 2023](./assets/skku-badge-23.svg)](https://cse.skku.edu/)
-![All stars](https://img.shields.io/badge/dynamic/json?logo=github&label=받은%20⭐%20수&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lhwdev&color=f2e81b)
+![All stars](https://img.shields.io/badge/dynamic/json?logo=github&label=받은%20⭐%20수&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lhwdev&color=f2e81b) 
 
 
 ## 나의 최근 관심사
