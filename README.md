@@ -14,8 +14,8 @@
 ## 나의 최근 관심사
 
 - &thinsp;<img src="https://avatars.githubusercontent.com/u/39462049?s=100" width="16" height="16" />&thinsp; [**System Consultant Group**](https://scg.skku.ac.kr): 성균관대학교의 일부 서비스들을 관리하는 _최고의_ 학생자치단체.  
-  요즘 웹 개발자 수요가 다른 것들에 비해 훨씬 많아진 것도 있고, 이 동아리에서 개발해야 할 것도 웹이기 때문에
-  **Next.js, NestJS** 같은 도구, **Kubernetes** 같은 인프라 관련 내용을 배우고 있습니다.
+  웹 개발에 관해서
+  **Next.js, Spring** 같은 도구, **Kubernetes** 같은 인프라 관련 내용을 배우고 있습니다.
 
   * **초록스터디 백엔드**: 우아한테크코스를 수료하신 분들께서 운영하는 스터디입니다. Java, Spring을 배우고 있습니다!
 
