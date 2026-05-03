@@ -13,7 +13,7 @@
 
 ## 나의 최근 관심사
 
-- &thinsp;<img src="https://avatars.githubusercontent.com/u/39462049?s=100" width="16" height="16" />&thinsp; [**System Consultant Group**](https://scg.skku.ac.kr): 성균관대학교의 일부 서비스들을 관리하는 _최고의_ 학생자치단체.  
+- &thinsp;<img src="https://avatars.githubusercontent.com/u/39462049?s=100" height="16" />&thinsp; [**System Consultant Group**](https://scg.skku.ac.kr): 성균관대학교의 일부 서비스들을 관리하는 _최고의_ 학생자치단체.  
   웹 개발에 관해서
   **Next.js, Spring** 같은 도구, **Kubernetes** 같은 인프라 관련 내용을 배우고 있습니다.
 
