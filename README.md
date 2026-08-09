@@ -13,6 +13,11 @@
 
 ## 나의 최근 관심사
 
+- <img src="https://csiagentgroup.com/_astro/favicon.vp_fBu0c.svg" height="16" /> [**CSI Agent Lab**](https://csiagentgroup.com/): 성균관대 산학협력프로젝트로 하계 근무 중입니다!
+
+  * LeRobot, SO101 등 저가형 로봇 기반 VLA 모델 학습, 최적화를 연구하고 있습니다.
+  * 2026 한국인공지능학회 하계학술대회의 [Physical AI Challenge](https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=364#CONF)에서 최우수상을 수상했습니다.
+
 - &thinsp;<img src="https://avatars.githubusercontent.com/u/39462049?s=100" height="16" />&thinsp; [**System Consultant Group**](https://scg.skku.ac.kr): 성균관대학교의 일부 서비스들을 관리하는 _최고의_ 학생자치단체.  
   웹 개발에 관해서
   **Next.js, Spring** 같은 도구, **Kubernetes** 같은 인프라 관련 내용을 배우고 있습니다.
